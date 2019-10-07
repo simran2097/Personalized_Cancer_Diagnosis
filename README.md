@@ -1,7 +1,5 @@
 DESCRIPTION:
 
-Context:
-
 Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/discussion/35336#198462
 
 Problem statement :Classify the given genetic variations/mutations based on evidence from text-based clinical literature.
@@ -21,6 +19,6 @@ Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment#evaluation
 
 Metric(s):
 
-Multi class log-loss
+1.Multi class log-loss
 
-Confusion matrix
+2.Confusion matrix
