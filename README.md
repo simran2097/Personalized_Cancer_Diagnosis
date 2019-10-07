@@ -4,16 +4,24 @@ Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/discussion/3533
 
 Problem statement :Classify the given genetic variations/mutations based on evidence from text-based clinical literature.
 
- Real-world/Business objectives and constraints.
-No low-latency requirement.
+REAL WORLD OBJECTIVE AND CONSTRAINTS:
 
-Interpretability is important.
+1.No low-latency requirement.
 
-Errors can be very costly.
+2.Interpretability is important.
 
-Probability of a data-point belonging to each class is needed.
+3.Errors can be very costly.
 
-Performance Metric
+4.Probability of a data-point belonging to each class is needed.
+
+
+SOME USEFUL LINKS:
+
+1. https://www.forbes.com/sites/matthewherper/2017/06/03/a-new-cancer-drug-helped-almost-everyone-who-took-it-almost-heres-what-it-teaches-us/#2a44ee2f6b25
+2. https://www.youtube.com/watch?v=UwbuW7oK8rk 
+3. https://www.youtube.com/watch?v=qxXRKVompI8
+
+PERFORMANCE METRIC:
 
 Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment#evaluation
 
